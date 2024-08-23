@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  wx_chip:
+  wx_checkbox:
     path: ../
   wx_text: ^3.0.0
   theme_patrol: ^3.2.2
